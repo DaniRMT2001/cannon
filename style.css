@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bb-mml{
+    background: rgb(255, 255, 255);
+}
+.tam{
+    font-size: 60px;
+}
+.tam2{
+    font-size:20px
+}
+.bt{
+    background-color: #CC0000;
+}
